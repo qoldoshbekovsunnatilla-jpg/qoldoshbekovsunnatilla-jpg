@@ -18,6 +18,12 @@
 ⭐ Agar loyihalarim yoqsa — star bosishni unutmang :)
 ## Hi there 👋
 
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&width=435&lines=Salom%2C+men+Sunnatilla!;Frontend+Developer+🚀;HTML+%2F+CSS+%2F+JS+lover!" alt="Typing SVG" />
+</h1>
+
 <!--
 **qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
