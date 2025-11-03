@@ -1,9 +1,5 @@
 <!-- Profil banneri -->
-<p align="center">
 
- <img width="1536" height="800" alt="ChatGPT Image 3 нояб  2025 г , 14_11_31" src="https://github.com/user-attachments/assets/fbf9fbed-e0c6-4db5-99ab-cf1bcd811c7e" />
-
-</p>
 
 
 
@@ -58,7 +54,11 @@ Men **Sunnatilla Qoldoshbekov**, frontend yo‘nalishida ishlaydigan yosh web da
 
 ---
 
-⭐ Agar loyihalarim yoqsa — **star bosishni unutmang!**
+<p align="center">
+
+ <img width="1536" height="800" alt="ChatGPT Image 3 нояб  2025 г , 14_11_31" src="https://github.com/user-attachments/assets/fbf9fbed-e0c6-4db5-99ab-cf1bcd811c7e" />
+
+</p>
 
 <!--
 **qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
