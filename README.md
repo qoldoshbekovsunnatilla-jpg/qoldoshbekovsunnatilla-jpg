@@ -1,8 +1,8 @@
 <!-- Profil banneri -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/SunnatillaQoldoshbekov/qoldoshbekovsunnatilla-jpg/main/photo1.jpg" width="200" style="border-radius:15px; margin:5px;">
- <img src="https://raw.githubusercontent.com/qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg/main/logo.png" 
-       alt="SNTech Logo" width="400" style="border-radius: 10px;">
+ <img width="1536" height="1024" alt="ChatGPT Image 3 нояб  2025 г , 14_11_31" src="https://github.com/user-attachments/assets/fbf9fbed-e0c6-4db5-99ab-cf1bcd811c7e" />
+
 </p>
 
 
