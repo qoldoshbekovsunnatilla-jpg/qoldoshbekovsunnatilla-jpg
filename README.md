@@ -1,4 +1,9 @@
 <!-- Profil banneri -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SunnatillaQoldoshbekov/qoldoshbekovsunnatilla-jpg/main/photo1.jpg" width="200" style="border-radius:15px; margin:5px;">
+  <img src="https://raw.githubusercontent.com/SunnatillaQoldoshbekov/qoldoshbekovsunnatilla-jpg/main/photo2.jpg" width="200" style="border-radius:15px; margin:5px;">
+  <img src="https://raw.githubusercontent.com/SunnatillaQoldoshbekov/qoldoshbekovsunnatilla-jpg/main/photo3.jpg" width="200" style="border-radius:15px; margin:5px;">
+</p>
 
 
 
