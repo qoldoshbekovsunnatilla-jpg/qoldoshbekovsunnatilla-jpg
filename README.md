@@ -1,3 +1,21 @@
+# 👋 Salom, men Sunnatilla Qoldoshbekov
+
+🌐 Frontend dasturchi | HTML, CSS, JavaScript  
+💡 Yangi texnologiyalarni o‘rganishni yoqtiraman  
+🚀 Maqsadim — professional web dasturchi bo‘lish  
+
+### 🔧 Texnologiyalar
+- HTML5  
+- CSS3 (Flexbox, Grid, Animation)  
+- JavaScript (DOM, Events, setInterval, API)
+
+### 📫 Menga bog‘lanish:
+- 💻 GitHub: [github.com/qoldoshbekovsunnatilla-jpg](https://github.com/qoldoshbekovsunnatilla-jpg)
+- 📧 Email: _shu yerga emailingni yoz_
+
+---
+
+⭐ Agar loyihalarim yoqsa — star bosishni unutmang :)
 ## Hi there 👋
 
 <!--
