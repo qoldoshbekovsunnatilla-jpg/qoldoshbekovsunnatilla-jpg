@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Salom%2C+men+Sunnatilla!;Frontend+Developer+🚀;HTML+%2F+CSS+%2F+JS+lover!" alt="Typing SVG" />
+</p>
+
+
+
+
 # 👋 Salom, men Sunnatilla Qoldoshbekov
 
 🌐 Frontend dasturchi | HTML, CSS, JavaScript  
@@ -20,9 +27,7 @@
 
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&width=435&lines=Salom%2C+men+Sunnatilla!;Frontend+Developer+🚀;HTML+%2F+CSS+%2F+JS+lover!" alt="Typing SVG" />
-</h1>
+
 
 <!--
 **qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
