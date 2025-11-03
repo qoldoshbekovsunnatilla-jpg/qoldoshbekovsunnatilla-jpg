@@ -32,7 +32,7 @@ Men **Sunnatilla Qoldoshbekov**, frontend yo‘nalishida ishlaydigan yosh web da
 
 ## 🌐 Let's Connect!
 
-- 💬 Telegram: [@sunnatilla_dev](https://t.me/sunnatilla_dev)
+- 💬 Telegram:[ [@sunnatilla_dev](https://t.me/sunnatilla_dev)](https://t.me/SNTechuz)
 - ✉️ Email: qoldoshbekovsunnatilla@gmail.com
 - 💻 GitHub: [qoldoshbekovsunnatilla-jpg](https://github.com/qoldoshbekovsunnatilla-jpg)
 
