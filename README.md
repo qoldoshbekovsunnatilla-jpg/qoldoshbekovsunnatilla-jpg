@@ -1,8 +1,5 @@
 <!-- Profil banneri -->
-<!-- Profil banneri -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SunnatillaQoldoshbekov/qoldoshbekovsunnatilla-jpg/main/banner.png" alt="SNTech Banner" width="100%">
-</p>
+
 
 
 
@@ -69,7 +66,14 @@ Men **Sunnatilla Qoldoshbekov**, frontend yo‘nalishida ishlaydigan yosh web da
 
 
 
-\
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/SunnatillaQoldoshbekov/qoldoshbekovsunnatilla-jpg/main/A_digital_graphic_design_displays_branding_for_SNT.png" 
+    alt="SNTech Banner" 
+    width="100%"
+  />
+</p>
+
 <!--
 **qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
