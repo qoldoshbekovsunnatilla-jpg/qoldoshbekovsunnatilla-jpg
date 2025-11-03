@@ -1,4 +1,5 @@
 <!-- Profil banneri -->
+<!-- Profil banneri -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/SunnatillaQoldoshbekov/qoldoshbekovsunnatilla-jpg/main/banner.png" alt="SNTech Banner" width="100%">
 </p>
